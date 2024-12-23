@@ -1,6 +1,6 @@
 # Google Chrome Extensions for FCSIA Website
 
-Welcome to the README page for the Chrome extensions developed to enhance the functionality and user-friendliness of the [FCSIA Event Website](https://event.fcsia.com/). These tools are specifically designed to streamline administrative tasks for administrators at Innovation Academy High School. Below, you'll find details about the two extensions, their features, and how to use them effectively.
+These Chrome extensions enhance the functionality and user-friendliness of the [FCSIA Event Website](https://event.fcsia.com/). They streamline administrative tasks for administrators at Innovation Academy High School. Below are details about the extensions, their features, and usage instructions.
 
 ## Overview
 
@@ -77,7 +77,7 @@ This Chrome extension checks for duplicate student entries on the FCSIA Event We
 
 ## Support
 
-If you encounter any issues or have questions about these extensions, please contact me at DonghyunWon2\@gmail.com.
+If you encounter any issues or have questions about these extensions, please contact me at [DonghyunWon2@gmail.com](mailto\:DonghyunWon2@gmail.com).
 
 ---
 
@@ -90,3 +90,4 @@ The following features are planned for future updates:
 - **Batch undo functionality**: Enable admins to undo bulk operations if needed.
 
 Thank you for using these extensions to improve the efficiency of managing student sign-ups on the FCSIA Event Website for Innovation Academy High School!
+
