@@ -77,7 +77,7 @@ This Chrome extension checks for duplicate student entries on the FCSIA Event We
 
 ## Support
 
-If you encounter any issues or have questions about these extensions, please contact the development team at DonghyunWon2\@gmail.com.
+If you encounter any issues or have questions about these extensions, please contact me at DonghyunWon2\@gmail.com.
 
 ---
 
